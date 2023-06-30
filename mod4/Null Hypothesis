@@ -1,0 +1,24 @@
+Null Hypothesis
+mu = 1mg ± 0.3mg
+
+
+Alternative Hypothesis
+mu = 1.5mg ± 0.5mg
+
+
+80% probability of getting 1mg 
+19% probability of getting 0.7 or 1.3mg
+1%  probability of getting 0mg or 2.0mg
+
+
+Null
+n = 400
+barx = 1mg ± 0.3mg
+alpha = 0.05
+
+
+Alternative
+n = 4
+barx = 1.9mg ±0.5mg
+std = 1.6std
+p-value = 0.04

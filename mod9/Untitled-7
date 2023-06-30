@@ -1,0 +1,14 @@
+
+E[X=3] = p
+
+
+
+            feline  reptile   farm
+
+cats        0.7     0.1        0.2
+dogs        0.2     0.1        0.7
+lizards     0.1     0.8        0.1
+cows        0.1     0.1        0.8
+
+
+E[X=cat_1] = "feline"

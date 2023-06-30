@@ -1,0 +1,10 @@
+Data                X       p(X) 
+LV                  0       0.04
+Guess               1       0.20
+Calvin Klein        2       0.34
+Tommy Hilf.         3       0.20 
+Gucci               4       0.15
+Mic. Kors           5       0.04
+Chanel              6       0.03 
+
+E[X] = 2.46

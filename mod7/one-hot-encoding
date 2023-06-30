@@ -1,0 +1,12 @@
+No. Of Bedrooms     |       City
+1                           Dubai
+1                           Abu Dhabi
+2                           Dubai
+3                           Dubai
+1                           Doha
+
+
+One-Hot Encoding
+
+No. Of Bedrooms     |       Dubai   |   Abu Dhabi   |   Doha    
+1                           1           0               0
